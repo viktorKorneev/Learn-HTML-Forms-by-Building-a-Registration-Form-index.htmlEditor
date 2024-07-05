@@ -18,3 +18,11 @@ label {
     display: block;
     margin: 0.5rem 0;
 }
+
+form {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 500px;
+    min-width: 300px;
+    width: 60vw;
+}
